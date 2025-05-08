@@ -11,6 +11,8 @@ This project implements a scalable document retrieval system that:
 - Builds Approximate Nearest Neighbor (Annoy) indexes for fast similarity search
 - Supports distributed deployment across multiple nodes
 
+Similarity matrices used for mapping and LSH can be downloaded from here - https://drive.google.com/drive/folders/1MObhjjjt0-06OvyvMtS0hQ7U_jwTTYye?usp=sharing
+
 ## Features
 
 - **Semantic Search**: Find documents based on meaning, not just keywords
